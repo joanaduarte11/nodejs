@@ -28,6 +28,3 @@ app.get('/', (req, res) => {
   })
   
   
-/* 
-arrumar DELETE
-criar PUT
